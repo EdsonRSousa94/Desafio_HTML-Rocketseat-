@@ -1,3 +1,4 @@
 # Desafio_HTML-Rocketseat-
 
-Nesse desafio foi feito uma lista de descrição com 4 tags onde aprendemos a estrutura HTML, semântica e seu funcionamento básico.
+Nesse desafio coloquei em pratica a semântica HTML e sua estrutura.
+Foi feito um glossário em formato de lista de descrição onde possue 4 tags que redireciona para documentação sobre o elemento HTML.
