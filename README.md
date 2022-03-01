@@ -1,6 +1,6 @@
 # Desafio_HTML-Rocketseat-
 
-Nesse desafio foi feito uma lista de descrição com 4 tags.
+Nesse desafio foi feito uma lista de descrição com 4 tags onde aprendemos a estrutura HTML e seu funcionamento basico.
 
 ## Comandos utilizados.
 
